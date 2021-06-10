@@ -104,6 +104,7 @@ body {
 
 .content {
   display: flex;
+  align-items: flex-end;
 }
 
 .col {
@@ -189,9 +190,9 @@ body {
 }
 
 .poster-wrapper {
-  margin-top: 35px;
   display: flex;
   align-items: start;
+  
 }
 
 .poster {
