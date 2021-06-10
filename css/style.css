@@ -109,11 +109,7 @@ body {
 
 .col {
   flex-basis: 50%;
-<<<<<<< Updated upstream
-  align-items: start;  
-=======
   align-items: flex-end;
->>>>>>> Stashed changes
 }
 
 .content-title {
