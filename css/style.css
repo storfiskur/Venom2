@@ -109,6 +109,7 @@ body {
 
 .col {
   flex-basis: 50%;
+  align-items: start;  
 }
 
 .content-title {
